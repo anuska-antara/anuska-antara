@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anuska-antara
-- 👀 I am a second year B.tech CSE student of PES University.
-- 🌱 I’m currently learning Data Science in Python as well as R.
+- 👀 I am a third year B.tech CSE student of PES University.
+- 🌱 I’m currently learning Data Science in Python.
 - 💞️ I have command over the programming languages C++, Python, C and Java, HTML, CSS, JS
 - 📫 You can reach me out at anuskaantara769@gmail.com.
 
